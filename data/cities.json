@@ -1,0 +1,95 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Ampus",
+      "country": "France",
+      "date": "2023-12-13T13:36:03.412Z",
+      "notes": "",
+      "position": {
+        "lat": "43.6599240747891",
+        "lng": "6.372070312500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Empoli",
+      "country": "Italy",
+      "date": "2023-12-13T13:38:50.514Z",
+      "notes": "",
+      "position": {
+        "lat": "43.70759350405296",
+        "lng": "10.964355468750002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Beost",
+      "country": "France",
+      "date": "2023-12-13T20:40:10.264Z",
+      "notes": "",
+      "position": {
+        "lat": "42.98857645832184",
+        "lng": "-0.37353515625000006"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Nughedu San Nicolo",
+      "country": "Italy",
+      "date": "2023-12-13T20:47:46.433Z",
+      "notes": "reete",
+      "position": {
+        "lat": "40.54720023441049",
+        "lng": "8.986816406250002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Belgern-Schildau",
+      "country": "Germany",
+      "date": "2023-12-13T20:53:27.394Z",
+      "notes": "",
+      "position": {
+        "lat": "51.45400691005982",
+        "lng": "13.183593750000002"
+      },
+      "id": 98443202
+    }
+  ]
+}
